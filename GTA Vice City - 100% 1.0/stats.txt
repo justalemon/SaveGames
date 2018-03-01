@@ -1,0 +1,446 @@
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+			GTA VICE CITY STATS
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+
+LAST MISSION PASSED: Boomshine Saigon
+DATE: 03/01/18
+
+
+Criminal rating:  Fixer (4390)
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Percentage completed
+100%
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mission attempts
+104
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Playing Time
+ 23:04
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Days passed in game
+115
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Safehouse visits
+239
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Rampages passed
+  35 out of 35
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Hidden Packages found
+  100 out of 100
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+People you've wasted
+2049
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+People wasted by others
+308
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Road Vehicles destroyed
+205
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Boats destroyed
+23
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Planes & Helicopters destroyed
+16
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Tires popped with gunfire
+73
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Total number of wanted stars attained
+303
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Total number of wanted stars evaded
+162
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Times busted
+0
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Hospital visits
+0
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Number of headshots
+75
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Daily police spending
+$65137.00
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Least favorite gang
+
+
+Cubans
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Gang members wasted
+1230
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Criminals wasted
+96
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Kgs of explosives used
+256
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Bullets fired
+19189
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Bullets that hit
+8170
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Accuracy
+42%
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Dist. traveled on foot (miles)
+83.03
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Dist. traveled by car (miles)
+465.30
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Dist. traveled by bike (miles)
+113.43
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Dist. traveled by boat (miles)
+11.57
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Dist. traveled by golf cart (miles)
+1.54
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Dist. traveled by helicopter (miles)
+76.11
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Total distance traveled (miles)
+750.99
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Max. INSANE Jump dist. (m)
+82.00
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Max. INSANE Jump height (m)
+17.00
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Max. INSANE Jump flips
+1
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Unique Jumps completed
+  36 out of 36
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Max. INSANE Jump rotation
+343º
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Best INSANE stunt so far
+
+
+Insane stunt
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Longest Wheelie time (secs)
+0
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Longest Wheelie distance (m)
+0.00
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Longest Stoppie time (secs)
+0
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Longest Stoppie distance (m)
+0.00
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Longest 2 wheels time (secs)
+2
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Longest 2 wheels distance (m)
+11.72
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Criminals killed on Vigilante Mission
+78
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Highest Vigilante Mission level
+12
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Passengers dropped off
+100
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Cash made in taxi
+$115236.00
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+People saved in an Ambulance
+78
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Highest Paramedic Mission level
+12
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Total fires extinguished
+107
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Fire Truck Mission level 
+12
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Stores Knocked Off
+  15 out of 15
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Assassination Contracts Completed
+  5 out of 5
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Photographs Taken
+4
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Pizza's Delivered
+55
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+'Ice Cream' Sold
+61
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Best Percentage of hits for Shooter
+89
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Fastest time on 'Alloy Wheels Of Steel'
+ 1:38
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Fastest time on 'The Driver'
+ 2:04
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Fastest time in Dirt Ring
+ 8:36
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Fastest time on RC Plane Race
+ 2:41
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Fastest time on RC Car Race
+ 2:27
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Fastest time on RC helicopter Pickup
+ 8:10
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Fastest time on 'Terminal Velocity'
+ 0:55
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Fastest time on 'Ocean Drive'
+ 1:02
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Fastest time on 'Border Run'
+ 1:48
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Fastest time on 'Capital Cruise'
+ 1:50
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Fastest time on 'Tour!'
+ 2:22
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Fastest time on 'V.C. Endurance'
+ 4:56
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Fastest time on Downtown Chopper Checkpoint
+ 3:12
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Fastest time on Ocean Beach Chopper Checkpoint
+ 2:13
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Fastest time on Vice Point Chopper Checkpoint
+ 2:27
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Fastest time on Little Haiti Chopper Checkpoint
+ 2:58
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Fastest time on 'PCJ Playground'
+ 1:17
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Fastest time on 'Trial By Dirt'
+ 2:47
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Fastest time on 'Test Track'
+ 2:47
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Fastest time for 'Cone Crazy'
+ 0:35
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Fastest time for Checkpoint Charlie
+ 2:19
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Highest score for Shooter
+65
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Number of drug deals made
+61
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Hotring Best Result
+1
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Fastest time in Hotring
+ 3:38
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Fastest lap time in Hotring
+15.00
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Flight hours
+ 0:04
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Longest time in bloodring (secs)
+60
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Fishes Fed
+0
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Most Favorite Radio Station
+
+
+WAVE 103
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Least Favorite Radio Station
+
+
+WAVE 103
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Sprayings
+32
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Weapon Budget
+$143000.00
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Fashion Budget
+$1400.00
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Property Budget
+$441500.00
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Auto Repair and Painting Budget
+$3000.00
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Property Destroyed
+$1004190.00
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Property Owned
+15
+
+The Malibu
+
+Print Works
+
+Film Studio
+
+Ice Cream Factory
+
+Car Showroom
+
+Taxi Company
+
+Boatyard
+
+Pole Position Club
+
+3321 Vice Point
+
+Links View Apartment
+
+El Swanko Casa
+
+1102 Washington Street
+
+Ocean Heights Apartment
+
+Skumole Shack
+
+Hyman Condo
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Highest media attention
+119
+
+Front page of local paper
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
